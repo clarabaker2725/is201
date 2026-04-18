@@ -1,0 +1,43 @@
+body{
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: #2a3c4c;
+}
+
+p{
+    font-size: larger;
+}
+
+nav a:hover{
+    background-color: #d1d8de;
+}
+
+.pro_page{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.list_topic{
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+ol, ul {
+    text-align: left;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.tableauPlaceholder{
+    margin: 0 auto;
+}
+
+.lists{
+    color: #2568a2;
+}
+
+img{
+    border: 10px black;
+}
